@@ -1,3 +1,2 @@
-# Drag
 
-Hello Drag
+Hello Angular2
